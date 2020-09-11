@@ -1,6 +1,6 @@
 {
-  "name": "poem_backend",
-  "version": "0.0.0",
+  "name": "poemBackend",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "node ./server/bin/www",
