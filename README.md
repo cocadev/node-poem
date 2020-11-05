@@ -1,11 +1,5 @@
 # Node, Postgres, and Sequelize
 
-## Want to learn how to build this project?
-
-Check out the [blog post](http://mherman.org/blog/2015/10/22/node-postgres-sequelize).
-
-## Want to use this project?
-
 1. Fork/Clone
 1. Install dependencies - `npm install`
 1. Create a local Postgres databases - `todos` - and then update *server/config.json*
